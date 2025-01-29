@@ -20,7 +20,7 @@ Welcome to **Cartique**, a sleek and functional shopping cart application built 
 - **React Native:** Frontend framework for cross-platform development.
 - **Redux:** State management library.
 - **Redux-Saga:** Middleware for handling asynchronous operations.
-- **JavaScript (ES6+):** Programming language.
+- **TypeScript** 
 
 ---
 
